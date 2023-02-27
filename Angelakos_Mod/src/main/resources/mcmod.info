@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sm",
+  "name": "Schama Mod",
+  "description": "Mod for Schama's CSP Final.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Matthew Angelakos and Seth Yeh"],
+  "credits": "Schama",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

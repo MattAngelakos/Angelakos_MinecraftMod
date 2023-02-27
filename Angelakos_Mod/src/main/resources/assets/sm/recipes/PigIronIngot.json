@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "sm:aluminium_ingot"
+    },
+ 
+    {
+      "item": "sm:crushed_coal"
+    },
+    
+    {
+      "item": "minecraft:iron_ingot" 
+    },
+    
+    {
+      "item": "minecraft:iron_ingot" 
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "sm:pig_iron_ingot",
+        "count": 1
+    }
+}

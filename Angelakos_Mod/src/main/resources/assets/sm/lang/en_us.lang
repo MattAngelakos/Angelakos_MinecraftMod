@@ -1,0 +1,50 @@
+//items
+item.steel_ingot.name=Steel Ingot
+item.sapphire.name=Sapphire
+item.aluminium_ingot.name=Aluminum Ingot
+item.crushed_coal.name=Crushed Coal
+item.pig_iron_ingot.name=Pig Iron Ingot
+    //tools
+        //swords
+item.steel_sword.name=Steel Sword
+item.sapphire_sword.name=Sapphire Sword
+        //pickaxes
+item.steel_pickaxe.name=Steel Pickaxe        
+item.sapphire_pickaxe.name=Sapphire Pickaxe  
+        //axes
+item.steel_axe.name=Steel Axe        
+item.sapphire_axe.name=Sapphire Axe  
+        //shovels
+item.steel_shovel.name=Steel Shovel  
+item.sapphire_shovel.name=Sapphire Shovel      
+        //hoes
+item.steel_hoe.name=Steel Hoe
+item.sapphire_hoe.name=Sapphire Hoe
+        //bows
+        
+     //armor
+        //hemlets
+item.steel_helmet.name=Steel Helmet
+item.sapphire_helmet.name=Sapphire Helmet
+        //chestplates
+item.steel_chestplate.name=Steel Chestplate
+item.sapphire_chestplate.name=Sapphire Chestplate
+        //leggings
+item.steel_leggings.name=Steel Leggings
+item.sapphire_leggings.name=Sapphire Leggings
+        //boots
+item.steel_boots.name=Steel Boots
+item.sapphire_boots.name=Sapphire Boots
+        //horse
+    
+//blocks
+tile.steel_block.name=Steel Block
+tile.sapphire_block.name=Sapphire Block
+tile.aluminium_ore.name=Aluminum Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.banana_leaves.name=Banana Leaves
+tile.banana_planks.name=Banana Planks
+tile.banana_log.name=Banana Log
+
+//food
+item.banana.name=Banana

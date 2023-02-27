@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SS ",
+        "SW ",
+        " W "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "sm:sapphire"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:sapphire_axe",
+        "count": 1
+    }
+}
