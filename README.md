@@ -1,5 +1,5 @@
 # Angelakos_MinecraftMod
-A Minecarft Mod for Minecraft Version 1.12.2 for my AP Computer Science Principles Exam. Made with my friend Seth and I.   
+A Minecraft Mod for Minecraft Version 1.12.2 for my AP Computer Science Principles Exam. Made with my friend Seth.   
 This was made using the Minecraft Forge Mod Builder and includes 
 1. Steel made using the Bessemer Process
 2. Sapphire Ores with Tools and Armor
