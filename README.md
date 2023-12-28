@@ -10,4 +10,4 @@ This was made using the Minecraft Forge Mod Builder and includes
 
 
 A video to a demonstration can be found here: https://www.youtube.com/watch?v=s28PLTA54G4&ab_channel=MatthewAngelakos  
-Unfortunately my partner's contributions have been lost to time but mine can still be found in the code posted. Sadly you need to change some of the directory paths for your specific computer but all the code is there.
+Unfortunately my partner's contributions have been lost to time but mine can still be found in the code posted.
